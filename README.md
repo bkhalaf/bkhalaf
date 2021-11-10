@@ -1,7 +1,7 @@
 # Basem Khalaf
-Data Analyst 
-Data Visualizer
-Data Storyteller
+Data Analyst، 
+Data Visualizer،
+Data Storyteller،
 Data Engineer
 
 
