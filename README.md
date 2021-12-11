@@ -7,8 +7,8 @@ I'm Basem, an aspiring **Data Engineer** and certified Data analyst from Microso
 I also enrolled at Micromaster program in Data and Economics from MIT univeristy, and had a Bachelor degree in Electrical Engineering from IUG :mortar_board:.
 
 
-- 🔭 I’m currently seeking an engineer level job in **data engineering** feild
-- 🌱 I’m currently learning **data science and machine learning**
+- 🔭 I’m currently seeking an engineer level job in **data engineering** field
+- 🌱 I’m currently learning **Multi cloud stack and machine learning**
 - 👯 I’m looking to collaborate on data science project
 - 📫 How to reach me:  [LinkedIn](https://www.linkedin.com/in/bkhalaf/) 
 - 🔗 Link for Badges:    [Badges](https://www.credly.com/users/wael-daghash/badges)
