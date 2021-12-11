@@ -4,7 +4,7 @@
 
 Welcome to my Gihub profile !
 I'm Basem, an aspiring **Data Engineer** and certified Data analyst from Microsoft, recenlty completed few Data Analytics Certificates, hands on programs that covers the entire scope of the data analysis process.
-I have also  Micromaster degree in Data and Economics from MIT univeristy, also a Bachelor degree in Electrical Engineering from IUG :mortar_board:.
+I also enrolled at Micromaster program in Data and Economics from MIT univeristy, also a Bachelor degree in Electrical Engineering from IUG :mortar_board:.
 
 
 - 🔭 I’m currently seeking an engineer level job in **data engineering** feild
