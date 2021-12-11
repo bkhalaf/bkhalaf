@@ -8,7 +8,7 @@ I also enrolled at Micromaster program in Data and Economics from MIT univeristy
 
 
 - 🔭 I’m currently seeking an engineer level job in **data engineering** field
-- 🌱 I’m currently learning **Multi cloud stack and machine learning**
+- 🌱 I’m currently learning **Multi cloud (mainly AWS & MS ) and machine learning**
 - 👯 I’m looking to collaborate on data science project
 - 📫 How to reach me:  [LinkedIn](https://www.linkedin.com/in/bkhalaf/) 
 - 🔗 Link for Badges:    [Badges](https://www.credly.com/users/wael-daghash/badges)
