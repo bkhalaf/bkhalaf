@@ -1,6 +1,3 @@
-# Basem Khalaf
-Data Engineer,Analyst،Visualizer،Storyteller
-![1619040227526](https://user-images.githubusercontent.com/18074632/141183043-3716175f-7b3a-4759-90d0-c2e053f28e3d.jpeg)
 
 
 
@@ -13,15 +10,14 @@ You can finad my all works in data analysis and Machine learning, in addition to
 
 
 Welcome to my Gihub profile !
-Welcome ! I'm Basem, an aspiring **data Engineer** (certified from **Technion, Microsoft and DataCamp**) and certified Data analyst from google, recenlty completed the google Data Analytics Certificate, hands on program that covers the entire scope of the data analysis process.
-I have also  Master degree in neuroscience from haifa univeristy, also a Bachelor degree in science and education from technion :mortar_board:.
+Welcome ! I'm Basem, an aspiring **Data Engineer** and certified Data analyst from Microsoft, recenlty completed few Data Analytics Certificates, hands on programs that covers the entire scope of the data analysis process.
+I have also  Micromaster degree in Data and Economics from MIT univeristy, also a Bachelor degree in Electrical Engineering from IUG :mortar_board:.
 
 
-- 🔭 I’m currently seeking an entry level job in **data science** feild
+- 🔭 I’m currently seeking an engineer level job in **data engineering** feild
 - 🌱 I’m currently learning **data science and machine learning**
 - 👯 I’m looking to collaborate on data science project
-- 📫 How to reach me:  [LinkedIn](https://www.linkedin.com/in/wael-dagash-48692b120/) 
-- 🔗 Link for Portfolio :    [Portfolio](https://sites.google.com/view/waeldagash/home)
+- 📫 How to reach me:  [LinkedIn](https://www.linkedin.com/in/bkhalaf/) 
 - 🔗 Link for Badges:    [Badges](https://www.credly.com/users/wael-daghash/badges)
-- 🔗 Link for DataCamp profile:    [DataCamp](https://www.datacamp.com/profile/waeldagash)  
-- 🔗 Link for Kaggle profile:    [Kaggle](https://www.kaggle.com/waeldagash)  
+- 🔗 Link for DataCamp profile:    [DataCamp](https://www.datacamp.com/profile/bkhalaf94)  
+- 🔗 Link for Kaggle profile:    [Kaggle]( https://www.kaggle.com/basemkhalaf)  
