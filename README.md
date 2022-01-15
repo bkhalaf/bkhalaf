@@ -7,9 +7,9 @@ I'm Basem, an aspiring **Data Engineer** and experienced Data analyst, recenlty 
 I also enrolled at Micromaster program in Data and Economics from MIT univeristy, and had a Bachelor degree in Electrical Engineering from IUG :mortar_board:.
 
 
-- 🔭 I’m currently seeking an engineer level job in **data engineering** field
-- 🌱 I’m currently learning **Multi cloud (mainly AWS & MS ) and machine learning**
-- 👯 I’m looking to collaborate on data science project
+- 🔭 I’m currently seeking an engineer level job in **Data engineering** field
+- 🌱 I’m currently learning **Multi cloud stack (mainly AWS & GCP )**
+- 👯 I’m looking to collaborate on software development & data engineering projects.
 - 📫 How to reach me:  [LinkedIn](https://www.linkedin.com/in/bkhalaf/) 
 - 🔗 Link for Badges:    [Badges](https://www.credly.com/badges/28042e48-71b1-4b18-99cb-c0d9b993f64c/public_url)
 - 🔗 Link for DataCamp profile:    [DataCamp](https://www.datacamp.com/profile/bkhalaf94)  
