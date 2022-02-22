@@ -2,7 +2,7 @@
 ### Salam there 👋
 
 
-I'm Basem, an aspiring **Data Engineer** and experienced Data analyst, recenlty completed few Data Analytics Certificates, hands on programs that covers the entire scope of the data analysis process.
+I'm Basem, an aspiring **Data Engineer** and experienced Data analyst, recenlty completed few Certificates in AWS & GCP stacks , hands on programs that covers the entire scope of the data engineering process.
 I also enrolled at Micromaster program in Data and Economics from MIT univeristy, and had a Bachelor degree in Electrical Engineering from IUG :mortar_board:.
 
 
