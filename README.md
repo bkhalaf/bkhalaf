@@ -12,5 +12,6 @@ I also enrolled at Micromaster program in Data and Economics from MIT univeristy
 - 📫 How to reach me:  [LinkedIn](https://www.linkedin.com/in/bkhalaf/) 
 - 🔗 Link for Badges:   [Badges](https://www.credly.com/users/basem-khalaf94/badges)
 - 🔗 A Cloud Guru profile:   [ACG](https://learn.acloud.guru/profile/bkhalaf)  
+- 🔗 Leetcode profile:   [LC](https://leetcode.com/bkhalaf/)                                      
 - 🔗 Link for DataCamp profile:   [DataCamp](https://www.datacamp.com/profile/bkhalaf94)  
 - 🔗 Link for Kaggle profile:    [Kaggle]( https://www.kaggle.com/basemkhalaf)  
