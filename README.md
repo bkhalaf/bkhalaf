@@ -2,11 +2,11 @@
 ### Salam there 👋
 
 
-Aspiring Senior Data Engineer with very good experience as a Data Analyst, recently certified in AWS, with hands-on expertise across the full data engineering process.
+Aspiring Senior Data Engineer, recently certified in AWS Cloud, with hands-on expertise across the full data engineering and MLOps processes.
 
 
 - 🔭 I’m currently seeking a lead-level job in **Data engineering** field
-- 🌱 I’m currently focusing on **Multi cloud (mainly GCP & MS Azure)**, also strengthening my skills in AWS.
+- 🌱 I’m focusing on **Multi cloud (mainly GCP & MS Azure)**, also strengthening my skills in AWS.
 - 👯 I want to collaborate on software development & data engineering projects.
 - 📫 How to reach me:  [LinkedIn](https://www.linkedin.com/in/bkhalaf/) 
 - 🔗 Link for Badges:   [Badges](https://www.credly.com/users/basem-khalaf94/badges)
