@@ -12,4 +12,3 @@ Aspiring Senior Data Engineer, recently certified in AWS Cloud & Airflow DAGs Au
 - 🔗 Link for Badges:   [Badges](https://www.credly.com/users/basem-khalaf94/badges)
 - 🔗 Leetcode profile:   [LC](https://leetcode.com/bkhalaf/)                                      
 - 🔗 Link for DataCamp profile:   [DataCamp](https://www.datacamp.com/profile/bkhalaf94)  
-- 🔗 Link for Kaggle profile:    [Kaggle]( https://www.kaggle.com/basemkhalaf)  
