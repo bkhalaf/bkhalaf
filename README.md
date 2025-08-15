@@ -2,7 +2,7 @@
 ### Salam there 👋
 
 
-Aspiring Senior Data Engineer, recently certified in AWS Cloud & Airflow DAGs Authoring with hands-on expertise across the full data engineering and MLOps processes.
+Aspiring Senior Lead Data Engineer, recently certified in AWS Cloud & Airflow DAGs Authoring with hands-on expertise across the full data engineering and MLOps processes.
 
 
 - 🔭 I’m currently seeking a lead-level job in **Data Engineering**.
