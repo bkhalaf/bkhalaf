@@ -2,7 +2,7 @@
 ### Salam there 👋
 
 
-Aspiring Senior Data Engineer, recently certified in AWS Cloud & Airflow DAGs Authoring and a strong command of end-to-end Data Engineering and AIOps pipelines.
+Aspiring Lead Data Engineer, recently certified in AWS Cloud & Airflow DAGs Authoring and a strong command of end-to-end Data Engineering and AIOps pipelines.
 
 
 - 🌱 I’m focusing on **Agentic AI & AI apps infrastructure**.
